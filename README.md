@@ -1,6 +1,6 @@
 ![Status: Finished](https://img.shields.io/badge/Status-Finished-%235d6d91)
 
-# Sockets in Python - Examples
+# Sockets in Python - examples
 
 Example implementations of a socket, made using Python with the socket library and SocketIO. Sockets are endpoints for sending and receiving data across the network and you can learn more about them [here](https://medium.com/swlh/understanding-socket-connections-in-computer-networking-bac304812b5c). 
 
